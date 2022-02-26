@@ -3,9 +3,9 @@
 
 ```mermaid 
 flowchart TD
-    A[Christmas] -->|Get money| B(Go shopping)
-    B --> C{Let me think}
-    C -->|One| D[Laptop]
-    C -->|Two| E[iPhone]
+    A[지윤] -->|떡볶이 먹기| B(쇼핑가기)
+    B --> C{생각하기}
+    C -->|One| D[노트북]
+    C -->|Two| E[아이폰]
     C -->|Three| F[fa:fa-car Car]
 ``` 
