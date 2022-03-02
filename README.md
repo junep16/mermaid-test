@@ -10,7 +10,7 @@ flowchart TD
     C -->|Three| F[fa:fa-car Car]
 ``` 
 ## 플로우차트 테스트
-### 라면끓이는 방법! 랄랄랄
+### 라면끓이는 방법!  
 
 ```mermaid
 	flowchart TB
