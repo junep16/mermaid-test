@@ -14,5 +14,5 @@ flowchart TD
 
 ```mermaid
 	flowchart TB
-	A{라면이 있는가?} |있다| B(냄비를 준비한다)
+	A{라면이 있는가?} -->|있다| B(냄비를 준비한다)
 ```
