@@ -13,7 +13,7 @@ flowchart TD
 ### 라면끓이는 방법!  
 
 ```mermaid
-	flowchart TB
+	flowchart LR
 		A{라면이 있는가?} -->|있다| B(냄비를 준비한다)
 			B -->C(머그컵 2잔 분량의 물을 붓는다)
 			C -->E(스토브를 키고 물을 끓인다)
