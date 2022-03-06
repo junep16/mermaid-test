@@ -78,3 +78,10 @@ graph TD
 	    할일1 : 60min
 	    할일2 : 30min
 ```
+
+```mermaid
+		erDiagram
+       CUSTOMER ||--o{ ORDER : makes
+       CUSTOMER ||--o{ PAYMENT : makes
+       ORDER ||--o{ ITEM : prepared
+```
