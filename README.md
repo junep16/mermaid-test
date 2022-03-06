@@ -68,3 +68,13 @@ graph TD
 	    세수하기   :a1, 10:00, 60min
 	    밥먹기    :after a1  11:00, 30min
 ```
+
+```mermaid
+		gantt
+	    title 하루 일과
+	    dateFormat  HH-MM
+	    axisFormat %H:%M
+	    하루시작 : milestone, m1, 17:49,2min
+	    할일1 : 60min
+	    할일2 : 30min
+```
