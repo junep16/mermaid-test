@@ -59,3 +59,12 @@ graph TD
 	      Boolean
 	    }
 ```
+
+```mermaid
+		gantt
+	    title 하루 일과
+	    dateFormat  YYYY-MM-DD
+	    section 오늘하루
+	    세수하기   :a1, 10:00, 60min
+	    밥먹기    :after a1  11:00, 30min
+```
