@@ -85,3 +85,15 @@ graph TD
        CUSTOMER ||--o{ PAYMENT : makes
        ORDER ||--o{ ITEM : prepared
 ```
+
+```mermaid
+		journey 
+	    title 오늘 하루 회고
+	    section 오전
+	      커피 마시기: 7: 나
+	      회의 참석: 4: 나
+	      피드백: 4: 나, 팀장님
+	    section 오후
+	      점심 후 커피: 5: 나
+	      업무: 3: 나
+```
