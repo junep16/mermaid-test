@@ -31,3 +31,11 @@ graph TD
 	    		M --> N(집에간다)
 	    		N --> A
 ```
+
+
+```mermaid
+	sequenceDiagram
+	    A->>+B: B야 소금좀 건내줘
+	    B->>+A: 여기
+	    A-->>-B: 고마워
+```
